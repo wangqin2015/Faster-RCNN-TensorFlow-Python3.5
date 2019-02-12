@@ -1,7 +1,7 @@
 # Faster-RCNN-TensorFlow-Python3.5 refered from https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3.5.git
 faster-rcnn retrained on video image data
 
-训练前准备  
+一、训练前准备  
 1.cd ./data/coco/PythonAPI  
 执行：  
 	python setup.py build_ext --inplace  
@@ -12,7 +12,7 @@ faster-rcnn retrained on video image data
 解压、重命名到：data\imagenet_weights\vgg16.ckpt  
 
 
-皮卡丘数据测试  
+二、皮卡丘数据测试  
 for train:  
 1.使用皮卡丘标注数据  
 2.训练记录  
