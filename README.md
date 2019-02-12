@@ -39,3 +39,4 @@ snapshot_iterations=10
 测试pikachu_1768.jpg
 tag：{'yellow': 0.15671853721141815}
 
+
