@@ -1,11 +1,11 @@
 # Faster-RCNN-TensorFlow-Python3.5 refered from https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3.5.git
 faster-rcnn retrained on video image data
 
-训练前准备
-1.cd ./data/coco/PythonAPI
-执行：
-	python setup.py build_ext --inplace
-	python setup.py build_ext install
+训练前准备  
+1.cd ./data/coco/PythonAPI  
+执行：  
+	python setup.py build_ext --inplace  
+	python setup.py build_ext install  
 2.download voc2007 from https://github.com/rbgirshick/py-faster-rcnn#beyond-the-demo-installation-for-training-and-testing-models
 解压到：data/VOCDevkit2007/VOC2007
 3.download pre-trained VGG16 from http://download.tensorflow.org/models/vgg_16_2016_08_28.tar.gz
